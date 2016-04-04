@@ -1,0 +1,24 @@
+Teradata – A Brief History
+
+The Teradata Corporation was founded in 1979 in Los Angeles, California. 
+
+The corporate goal was the creation of a “database computer” which could handle billions of rows of data,
+up to and beyond a terabyte of data storage. 
+
+It took five years of development before a product was shipped to a first customer in 1984. 
+In 1982, the YNET technology was patented as the enabling technology for the parallelism that was at the heart of the
+architecture. 
+
+The YNET was the interconnect which allowed hundreds of individual processors to share the same bandwidth.
+In 1987, Teradata went public with its first stock offering. 
+In 1988, Teradata partnered with the NCR Corporation to build the next generation of database computers (e.g., 3700).
+Before either company could market its next generation product, NCR was purchased by AT&T Corporation at the end of 1991.
+
+AT&T purchased Teradata and folded Teradata into the NCR structure in January of 1992.
+The new division was named AT&T GIS (Global Information Solutions).
+
+In 1996, AT&T spun off three separate companies, one of which was NCR which then returned to its old name. 
+Teradata was a division of NCR from 1997 until 2001. 
+In 1997,
+Teradata (as part of NCR) had become the world leader in scalable data warehouse solutions.
+In 2007, NCR and Teradata separated as two corporations.
