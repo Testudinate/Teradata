@@ -1,0 +1,7 @@
+Teradata Overview
+
+After completing this module, you will be able to:
+• Where does Teradata Database fit into UDA?
+• Describe the purpose of the Teradata product
+• Understand the history of the Teradata Corporation
+• List major architectural features of the product
