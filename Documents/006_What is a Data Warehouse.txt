@@ -1,0 +1,20 @@
+What is a Data Warehouse?
+
+A data warehouse is a central, enterprise-wide 
+database that contains information extracted from the operational data stores. 
+
+Data warehouses have become more common in corporations where enterprise-wide detail data may
+be used in on-line analytical processing to make strategic and tactical business decisions. 
+
+Warehouses often carry many years worth of detail data so that historical trends may be analyzed using the 
+full power of the data.
+
+Many data warehouses get their data directly from operational systems so that the data is
+timely and accurate. 
+
+While data warehouses may begin somewhat small in scope and purpose, they often grow quite large as 
+their utility becomes more fully exploited by the enterprise.
+
+Data Warehousing is a process, not a product. It is a technique to properly assemble and
+manage data from various sources to answer business questions not previously possible or
+known. 
