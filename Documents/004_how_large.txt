@@ -1,0 +1,14 @@
+How large is a Trillion and a Quadrillion?
+
+The Teradata Database was the first commercial database system to support a trillion bytes
+of data. 
+
+It is hard to imagine the size of a trillion. 
+
+To put it in perspective, the life span of the average person is 2.5 gigaseconds 
+(or said differently 2,500,000,000 seconds). 
+A trillion seconds is 31,688 years!
+
+Teradata has customers with multiple petabytes of data. One petabyte is one quadrillion
+bytes of data. 
+A petabyte is effectively 1000 terabyes.
