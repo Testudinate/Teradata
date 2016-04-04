@@ -1,0 +1,24 @@
+1. What is Teradata?
+
+Teradata is a Relational Database Management System (RDBMS) for the world’s largest
+commercial databases. 
+
+It is possible to have databases with over 100 terabytes (of data) in
+size. 
+
+This characteristic makes Teradata an obvious choice for large data warehousing
+applications; however the Teradata system may also be as small as 100 gigabytes. 
+
+With its parallelism and scalability, Teradata allows you to start small with a single node and grow
+large with many nodes through linear expandability
+
+Teradata is comparable to a large database server, with multiple client application making
+inquiries against it concurrently.
+
+Teradata 14.0 was released on February 14, 2012.
+Teradata 14.10 was released on July 24, 2013.
+
+The ability to manage terabytes of data is accomplished using the concept of parallelism,
+where in many individual processors perform smaller tasks concurrently to accomplish an
+operation against a huge repository of data. 
+To date, only parallel architectures can handle databases of this size.
