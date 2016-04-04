@@ -1,0 +1,13 @@
+Data Marts
+
+A data mart is a special purpose subset of enterprise data used by a particular department,
+function or application. Data marts may have both summary and detail data, however,
+usually the data has been pre-aggregated or transformed in some way to better handle the
+particular type of requests of a specific user community
+
+Independent Data Marts
+
+Independent data marts are created directly from operational systems, just as is a data
+warehouse. In the data mart, the data is usually transformed as part of the load process.
+Data might be aggregated, dimensionalized or summarized historically, as the requirements
+of the data mart dictate.
